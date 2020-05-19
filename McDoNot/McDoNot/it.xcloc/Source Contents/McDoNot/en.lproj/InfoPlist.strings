@@ -1,0 +1,8 @@
+/* Bundle name */
+"CFBundleName" = "Oden";
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Turn on location services to find places around you.";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "Will you allow this app to always know your location?";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Turn on location services to find places around you.";

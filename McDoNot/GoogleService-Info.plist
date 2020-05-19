@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>571362785406-pdjrsl3ih863ma5p89fkletnvdc6a80k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.571362785406-pdjrsl3ih863ma5p89fkletnvdc6a80k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDs5hiPRq25GCtLTxbQYB7M_4RUnndg3q0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>571362785406</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.McDoNot.Oden</string>
+	<key>PROJECT_ID</key>
+	<string>mcdonot-6f45a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mcdonot-6f45a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:571362785406:ios:4ab93c479cd2c7b9eb802f</string>
+	<key>DATABASE_URL</key>
+	<string>https://mcdonot-6f45a.firebaseio.com</string>
+</dict>
+</plist>

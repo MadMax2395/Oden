@@ -1,0 +1,6 @@
+framework module Pods_McDoNot {
+  umbrella header "Pods-McDoNot-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="McDoNot/Base.lproj/Main.storyboard" source-language="en" target-language="pl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="0dK-3G-Gpb.title" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>Class = "UITabBarItem"; title = "Favorites"; ObjectID = "0dK-3G-Gpb";</note>
+      </trans-unit>
+      <trans-unit id="1Jp-4q-QEG.text" xml:space="preserve">
+        <source>LABEL</source>
+        <target>LABEL</target>
+        <note>Class = "UILabel"; text = "LABEL"; ObjectID = "1Jp-4q-QEG";</note>
+      </trans-unit>
+      <trans-unit id="1ZE-GK-dpR.text" xml:space="preserve">
+        <source>Hello!</source>
+        <target>Hello!</target>
+        <note>Class = "UILabel"; text = "Hello!"; ObjectID = "1ZE-GK-dpR";</note>
+      </trans-unit>
+      <trans-unit id="2WR-io-gKn.text" xml:space="preserve">
+        <source>Smoking Area</source>
+        <target>Smoking Area</target>
+        <note>Class = "UILabel"; text = "Smoking Area"; ObjectID = "2WR-io-gKn";</note>
+      </trans-unit>
+      <trans-unit id="6nC-b8-xoP.text" xml:space="preserve">
+        <source>Vending Machines</source>
+        <target>Vending Machines</target>
+        <note>Class = "UILabel"; text = "Vending Machines"; ObjectID = "6nC-b8-xoP";</note>
+      </trans-unit>
+      <trans-unit id="7Hq-gD-ieH.text" xml:space="preserve">
+        <source>Accessibility</source>
+        <target>Accessibility</target>
+        <note>Class = "UILabel"; text = "Accessibility"; ObjectID = "7Hq-gD-ieH";</note>
+      </trans-unit>
+      <trans-unit id="9WI-N4-wkb.text" xml:space="preserve">
+        <source>Parking</source>
+        <target>Parking</target>
+        <note>Class = "UILabel"; text = "Parking"; ObjectID = "9WI-N4-wkb";</note>
+      </trans-unit>
+      <trans-unit id="23L-0N-SIW.text" xml:space="preserve">
+        <source>Accessibility</source>
+        <target>Accessibility</target>
+        <note>Class = "UILabel"; text = "Accessibility"; ObjectID = "23L-0N-SIW";</note>
+      </trans-unit>
+      <trans-unit id="AiR-jq-lZ8.text" xml:space="preserve">
+        <source>Km</source>
+        <target>Km</target>
+        <note>Class = "UILabel"; text = "Km"; ObjectID = "AiR-jq-lZ8";</note>
+      </trans-unit>
+      <trans-unit id="B2W-K5-jrv.text" xml:space="preserve">
+        <source>Plugs</source>
+        <target>Plugs</target>
+        <note>Class = "UILabel"; text = "Plugs"; ObjectID = "B2W-K5-jrv";</note>
+      </trans-unit>
+      <trans-unit id="BDh-3O-ZSM.text" xml:space="preserve">
+        <source>Vending Machines</source>
+        <target>Vending Machines</target>
+        <note>Class = "UILabel"; text = "Vending Machines"; ObjectID = "BDh-3O-ZSM";</note>
+      </trans-unit>
+      <trans-unit id="BgR-Yq-syE.text" xml:space="preserve">
+        <source>Placeholder Name of the Place</source>
+        <target>Placeholder Name of the Place</target>
+        <note>Class = "UILabel"; text = "Placeholder Name of the Place"; ObjectID = "BgR-Yq-syE";</note>
+      </trans-unit>
+      <trans-unit id="G9Q-Oc-Kik.title" xml:space="preserve">
+        <source>Nearby</source>
+        <target>Nearby</target>
+        <note>Class = "UITabBarItem"; title = "Nearby"; ObjectID = "G9Q-Oc-Kik";</note>
+      </trans-unit>
+      <trans-unit id="JOa-eU-vGN.text" xml:space="preserve">
+        <source>Food and Drinks</source>
+        <target>Food and Drinks</target>
+        <note>Class = "UILabel"; text = "Food and Drinks"; ObjectID = "JOa-eU-vGN";</note>
+      </trans-unit>
+      <trans-unit id="Jac-wx-fra.text" xml:space="preserve">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "Jac-wx-fra";</note>
+      </trans-unit>
+      <trans-unit id="Mpe-Pg-s1A.text" xml:space="preserve">
+        <source>Placeholder Name of the Place</source>
+        <target>Placeholder Name of the Place</target>
+        <note>Class = "UILabel"; text = "Placeholder Name of the Place"; ObjectID = "Mpe-Pg-s1A";</note>
+      </trans-unit>
+      <trans-unit id="P3T-UT-tRx.text" xml:space="preserve">
+        <source>Km</source>
+        <target>Km</target>
+        <note>Class = "UILabel"; text = "Km"; ObjectID = "P3T-UT-tRx";</note>
+      </trans-unit>
+      <trans-unit id="Pux-pA-fU2.text" xml:space="preserve">
+        <source>Smoking Area</source>
+        <target>Smoking Area</target>
+        <note>Class = "UILabel"; text = "Smoking Area"; ObjectID = "Pux-pA-fU2";</note>
+      </trans-unit>
+      <trans-unit id="QHR-kK-C4H.text" xml:space="preserve">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "UILabel"; text = "Services"; ObjectID = "QHR-kK-C4H";</note>
+      </trans-unit>
+      <trans-unit id="QSi-w4-YEo.text" xml:space="preserve">
+        <source>Food and Drinks</source>
+        <target>Food and Drinks</target>
+        <note>Class = "UILabel"; text = "Food and Drinks"; ObjectID = "QSi-w4-YEo";</note>
+      </trans-unit>
+      <trans-unit id="Rcs-eg-BRv.text" xml:space="preserve">
+        <source>Placeholder of the address</source>
+        <target>Placeholder of the address</target>
+        <note>Class = "UILabel"; text = "Placeholder of the address"; ObjectID = "Rcs-eg-BRv";</note>
+      </trans-unit>
+      <trans-unit id="RnZ-jC-jyV.text" xml:space="preserve">
+        <source>LABEL</source>
+        <target>LABEL</target>
+        <note>Class = "UILabel"; text = "LABEL"; ObjectID = "RnZ-jC-jyV";</note>
+      </trans-unit>
+      <trans-unit id="SL2-XL-2E4.text" xml:space="preserve">
+        <source>LABEL</source>
+        <target>LABEL</target>
+        <note>Class = "UILabel"; text = "LABEL"; ObjectID = "SL2-XL-2E4";</note>
+      </trans-unit>
+      <trans-unit id="SY5-cp-Smn.normalTitle" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UIButton"; normalTitle = "Label"; ObjectID = "SY5-cp-Smn";</note>
+      </trans-unit>
+      <trans-unit id="Ush-1g-TT5.text" xml:space="preserve">
+        <source>LABEL</source>
+        <target>LABEL</target>
+        <note>Class = "UILabel"; text = "LABEL"; ObjectID = "Ush-1g-TT5";</note>
+      </trans-unit>
+      <trans-unit id="Wru-iC-Zd4.text" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>Class = "UILabel"; text = "Favorites"; ObjectID = "Wru-iC-Zd4";</note>
+      </trans-unit>
+      <trans-unit id="YGW-gK-FEf.text" xml:space="preserve">
+        <source>Need a nice spot today?</source>
+        <target>Need a nice spot today?</target>
+        <note>Class = "UILabel"; text = "Need a nice spot today?"; ObjectID = "YGW-gK-FEf";</note>
+      </trans-unit>
+      <trans-unit id="Zct-ID-trU.placeholder" xml:space="preserve">
+        <source>Search for a nearby place...</source>
+        <target>Search for a nearby place...</target>
+        <note>Class = "UITextField"; placeholder = "Search for a nearby place..."; ObjectID = "Zct-ID-trU";</note>
+      </trans-unit>
+      <trans-unit id="aRd-Af-XcS.text" xml:space="preserve">
+        <source>Wi-Fi</source>
+        <target>Wi-Fi</target>
+        <note>Class = "UILabel"; text = "Wi-Fi"; ObjectID = "aRd-Af-XcS";</note>
+      </trans-unit>
+      <trans-unit id="bYD-bT-yez.text" xml:space="preserve">
+        <source>Suggest a place</source>
+        <target>Suggest a place</target>
+        <note>Class = "UILabel"; text = "Suggest a place"; ObjectID = "bYD-bT-yez";</note>
+      </trans-unit>
+      <trans-unit id="doe-RU-ebf.text" xml:space="preserve">
+        <source>Placeholder Name of the Place</source>
+        <target>Placeholder Name of the Place</target>
+        <note>Class = "UILabel"; text = "Placeholder Name of the Place"; ObjectID = "doe-RU-ebf";</note>
+      </trans-unit>
+      <trans-unit id="ilB-Bc-mK8.title" xml:space="preserve">
+        <source>Places</source>
+        <target>Places</target>
+        <note>Class = "UITabBarItem"; title = "Places"; ObjectID = "ilB-Bc-mK8";</note>
+      </trans-unit>
+      <trans-unit id="jI7-7K-NJA.text" xml:space="preserve">
+        <source>Placeholder Name of the Place</source>
+        <target>Placeholder Name of the Place</target>
+        <note>Class = "UILabel"; text = "Placeholder Name of the Place"; ObjectID = "jI7-7K-NJA";</note>
+      </trans-unit>
+      <trans-unit id="lBb-Qv-hPU.text" xml:space="preserve">
+        <source>Usually quiet</source>
+        <target>Usually quiet</target>
+        <note>Class = "UILabel"; text = "Usually quiet"; ObjectID = "lBb-Qv-hPU";</note>
+      </trans-unit>
+      <trans-unit id="npP-i5-5BW.text" xml:space="preserve">
+        <source>Wi-Fi</source>
+        <target>Wi-Fi</target>
+        <note>Class = "UILabel"; text = "Wi-Fi"; ObjectID = "npP-i5-5BW";</note>
+      </trans-unit>
+      <trans-unit id="oFu-ju-J2A.text" xml:space="preserve">
+        <source>Plugs</source>
+        <target>Plugs</target>
+        <note>Class = "UILabel"; text = "Plugs"; ObjectID = "oFu-ju-J2A";</note>
+      </trans-unit>
+      <trans-unit id="obP-Br-HF3.text" xml:space="preserve">
+        <source>Km</source>
+        <target>Km</target>
+        <note>Class = "UILabel"; text = "Km"; ObjectID = "obP-Br-HF3";</note>
+      </trans-unit>
+      <trans-unit id="r0J-eu-54W.text" xml:space="preserve">
+        <source>Parking</source>
+        <target>Parking</target>
+        <note>Class = "UILabel"; text = "Parking"; ObjectID = "r0J-eu-54W";</note>
+      </trans-unit>
+      <trans-unit id="ryk-TY-1PI.normalTitle" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UIButton"; normalTitle = "Label"; ObjectID = "ryk-TY-1PI";</note>
+      </trans-unit>
+      <trans-unit id="sNY-UF-w9h.placeholder" xml:space="preserve">
+        <source>Search for a place...</source>
+        <target>Search for a place...</target>
+        <note>Class = "UITextField"; placeholder = "Search for a place..."; ObjectID = "sNY-UF-w9h";</note>
+      </trans-unit>
+      <trans-unit id="tpY-xA-emr.normalTitle" xml:space="preserve">
+        <source>Confirm</source>
+        <target>Confirm</target>
+        <note>Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "tpY-xA-emr";</note>
+      </trans-unit>
+      <trans-unit id="twN-V6-KdZ.text" xml:space="preserve">
+        <source>Near to you</source>
+        <target>Near to you</target>
+        <note>Class = "UILabel"; text = "Near to you"; ObjectID = "twN-V6-KdZ";</note>
+      </trans-unit>
+      <trans-unit id="vqh-U9-v3C.text" xml:space="preserve">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "UILabel"; text = "Services"; ObjectID = "vqh-U9-v3C";</note>
+      </trans-unit>
+      <trans-unit id="xSL-Ol-Wpb.text" xml:space="preserve">
+        <source>This place is generally quiet.</source>
+        <target>This place is generally quiet.</target>
+        <note>Class = "UILabel"; text = "This place is generally quiet."; ObjectID = "xSL-Ol-Wpb";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="McDoNot/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Oden</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
+        <source>Turn on location services to find places around you.</source>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription" xml:space="preserve">
+        <source>Will you allow this app to always know your location?</source>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Turn on location services to find places around you.</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="McDoNot/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="Accessibility" xml:space="preserve">
+        <source>Accessibility</source>
+        <note>tag for Accessibility</note>
+      </trans-unit>
+      <trans-unit id="Are you sure do you want to remove this place from Favorites?" xml:space="preserve">
+        <source>Are you sure do you want to remove this place from Favorites?</source>
+        <note>Alert showing up when a user wants to remove a place from favorites</note>
+      </trans-unit>
+      <trans-unit id="Bakery" xml:space="preserve">
+        <source>Bakery</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Cafè" xml:space="preserve">
+        <source>Cafè</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Empty text" xml:space="preserve">
+        <source>Empty text</source>
+        <note>Empty text field</note>
+      </trans-unit>
+      <trans-unit id="Food" xml:space="preserve">
+        <source>Food</source>
+        <note>tag for food and drinks selling services</note>
+      </trans-unit>
+      <trans-unit id="Great suggestion!" xml:space="preserve">
+        <source>Great suggestion!</source>
+        <note>user just added suggestion of place to study</note>
+      </trans-unit>
+      <trans-unit id="Library" xml:space="preserve">
+        <source>Library</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <note>No</note>
+      </trans-unit>
+      <trans-unit id="No places yet" xml:space="preserve">
+        <source>No places yet</source>
+        <note>no places have yet been added to favorites</note>
+      </trans-unit>
+      <trans-unit id="Oh, it's already there!" xml:space="preserve">
+        <source>Oh, it's already there!</source>
+        <note>place is already in our database alert title</note>
+      </trans-unit>
+      <trans-unit id="Park" xml:space="preserve">
+        <source>Park</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Parking" xml:space="preserve">
+        <source>Parking</source>
+        <note>tag for available Parking</note>
+      </trans-unit>
+      <trans-unit id="Please, give us the access to your position in order to retrieve your nearest places." xml:space="preserve">
+        <source>Please, give us the access to your position in order to retrieve your nearest places.</source>
+        <note>shows up when user tries to suggest places even he refused to give his location</note>
+      </trans-unit>
+      <trans-unit id="Please, insert a valid place." xml:space="preserve">
+        <source>Please, insert a valid place.</source>
+        <note>asks the user to type in a valid place in the search bar</note>
+      </trans-unit>
+      <trans-unit id="Plugs" xml:space="preserve">
+        <source>Plugs</source>
+        <note>tag for Plugs</note>
+      </trans-unit>
+      <trans-unit id="Position access request" xml:space="preserve">
+        <source>Position access request</source>
+        <note>Position access request alert title</note>
+      </trans-unit>
+      <trans-unit id="Save and keep your favorite places" xml:space="preserve">
+        <source>Save and keep your favorite places</source>
+        <note>Save and keep your favorite places</note>
+      </trans-unit>
+      <trans-unit id="School" xml:space="preserve">
+        <source>School</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Seems like this place is already in our database, but thanks anyways." xml:space="preserve">
+        <source>Seems like this place is already in our database, but thanks anyways.</source>
+        <note>Seems like this place is already in our database, but thanks anyways.</note>
+      </trans-unit>
+      <trans-unit id="Smoking Areas" xml:space="preserve">
+        <source>Smoking Areas</source>
+        <note>Smoking Areas</note>
+      </trans-unit>
+      <trans-unit id="Spot" xml:space="preserve">
+        <source>Spot</source>
+        <note>not conforming to any type of study place</note>
+      </trans-unit>
+      <trans-unit id="Store" xml:space="preserve">
+        <source>Store</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Thanks for your effort, we will review and insert the place as soon as possible." xml:space="preserve">
+        <source>Thanks for your effort, we will review and insert the place as soon as possible.</source>
+        <note>thank the user for suggesting a new place to study</note>
+      </trans-unit>
+      <trans-unit id="This place generally isn't very quiet." xml:space="preserve">
+        <source>This place generally isn't very quiet.</source>
+        <note>shown as description of a specific study place</note>
+      </trans-unit>
+      <trans-unit id="University" xml:space="preserve">
+        <source>University</source>
+        <note>type of study place</note>
+      </trans-unit>
+      <trans-unit id="Vending Machines" xml:space="preserve">
+        <source>Vending Machines</source>
+        <note>Vending Machines</note>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note>Yes</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
